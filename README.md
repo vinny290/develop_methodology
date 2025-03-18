@@ -10,7 +10,7 @@
 
 **Значок maintability:**
 
-![Maintability](Maintability.png)
+![Maintability](code_climate.png)
 
 ---
 
